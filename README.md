@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Performance Analysis
+# 📊 Metrostore Sales Performance Analysis
 
 This project presents a comprehensive sales analysis for a fictional Superstore using **SQL** and **Power BI**. It showcases how to clean, process, analyze, and visualize sales data to derive meaningful business insights and inform strategic decision-making.
 
@@ -108,6 +108,7 @@ This project successfully demonstrates the power of combining SQL and Power BI f
 ## 📬 Contact
 
 **Author**: Ponnada V V Naga Shanmukha
+
 **Mail**: shanmukhaponnada202@gmail.com
 
 ---

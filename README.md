@@ -107,8 +107,8 @@ This project successfully demonstrates the power of combining SQL and Power BI f
 
 ## 📬 Contact
 
-**Author**: Mohan Kumar  
-**Mail**: mohan122000kumar@gmail.com
+**Author**: Ponnada V V Naga Shanmukha
+**Mail**: shanmukhaponnada202@gmail.com
 
 ---
 

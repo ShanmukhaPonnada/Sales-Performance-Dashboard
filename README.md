@@ -1,6 +1,4 @@
-# Sales-Performance-Dashboard
-SQL &amp; Power BI project analyzing Metrostore e-commerce data for sales, profit &amp; performance insights across categories, regions, and customer segments.  Topics mysql sql sql-server dashboard excel data-visualization business-intelligence data-analysis e-commerce powerbi sales-analysis portfolio-project sql-project powerbi-project
-# 📊 Metrostore Sales Performance Analysis
+# 📊 Superstore Sales Performance Analysis
 
 This project presents a comprehensive sales analysis for a fictional Superstore using **SQL** and **Power BI**. It showcases how to clean, process, analyze, and visualize sales data to derive meaningful business insights and inform strategic decision-making.
 
@@ -109,8 +107,8 @@ This project successfully demonstrates the power of combining SQL and Power BI f
 
 ## 📬 Contact
 
-**Author**: Ponnada V V Naga Shanmukha
-**Mail**: shanmukhaponnada202@gmail.com
+**Author**: Mohan Kumar  
+**Mail**: mohan122000kumar@gmail.com
 
 ---
 
